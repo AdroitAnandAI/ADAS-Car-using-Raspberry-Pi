@@ -33,7 +33,7 @@ python3 pulse_mqtt.py
 
 To run the main object detection Publish Module:
 ```python
-python3 object_detection_demo.py -i 0 -m ssdlite_mobilenet_v2/ssdlite_mobilenet_v2.xml -at ssd --labels ~/open_model_zoo/data/dataset_classes/coco_91cl.txt -d MYRIAD --output_resolution 640x480
+python3 adas_cas.py -i 0 -m ssdlite_mobilenet_v2/ssdlite_mobilenet_v2.xml -at ssd --labels ~/open_model_zoo/data/dataset_classes/coco_91cl.txt -d MYRIAD --output_resolution 640x480
 ```
 
 # Project Description
