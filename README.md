@@ -181,11 +181,11 @@ _The annotated Indian Traffic Sign dataset is provided by Datacluster Labs, Indi
 
 
 # References
-1. LIDAR-Camera Sensor Fusion High Level: https://www.thinkautonomous.ai/blog/?p=lidar-and-camera-sensor-fusion-in-self-driving-cars
-2. LIDAR data scan code stub by Adafruit:https://learn.adafruit.com/remote-iot-environmental-sensor/code
-3. Camera Calibration and Intrinsic Matrix Estimation: https://www.cc.gatech.edu/classes/AY2016/cs4476_fall/results/proj3/html/agartia3/index.html
-4. Visual Fusion For Autonomous Cars Course at PyImageSearch University: https://www.pyimagesearch.com/pyimagesearch-university/
+1. **LIDAR-Camera Sensor Fusion High Level:** https://www.thinkautonomous.ai/blog/?p=lidar-and-camera-sensor-fusion-in-self-driving-cars
+2. **LIDAR data scan code stub by Adafruit:**https://learn.adafruit.com/remote-iot-environmental-sensor/code
+3. **Camera Calibration and Intrinsic Matrix Estimation:** https://www.cc.gatech.edu/classes/AY2016/cs4476_fall/results/proj3/html/agartia3/index.html
+4. **Visual Fusion** For Autonomous Cars Course at PyImageSearch University: https://www.pyimagesearch.com/pyimagesearch-university/
 5. LIDAR Distance Estimation:https://en.wikipedia.org/wiki/Lidar
 6. RPLIDAR A1 M8 Hardware Specification:https://www.generationrobots.com/media/rplidar-a1m8-360-degree-laser-scanner-development-kit-datasheet-1.pdf
 7. Model Training, Data Cleansing & Augmentation:www.roboflow.com
-8. The Indian traffic sign model has been trained using the Traffic dataset offered by Datacluster Labs, India.
+8. _The Indian traffic sign model has been trained using the Traffic dataset offered by Datacluster Labs, India._
