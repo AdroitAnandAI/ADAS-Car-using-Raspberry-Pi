@@ -1,7 +1,7 @@
 # ADAS: Collision Avoidance System on Indian Roads
 _Real-world implementation of ADAS L0 - CAS on Indian Roads - using LIDAR-Camera Low-Level Sensor Fusion_
 
-This solution aims **to augment even the least expensive cars in India with an ultra-cheap ADAS Level 0, i.e. collision avoidance and smart surround-view.** Modern cars with a forward-collision warning (FCW) system or autonomous emergency braking (AEB) are very expensive, but we can augment such functions on old cars, at a low cost.
+This solution aims **to augment even the least expensive cars in India with an ultra-cheap ADAS Level 0, i.e. collision avoidance and smart surround-view.** Modern cars with a forward-collision warning (FCW) system or autonomous emergency braking (AEB) are expensive, but we can augment such functions on old cars, at a low cost.
 
 # Project Demo
 
