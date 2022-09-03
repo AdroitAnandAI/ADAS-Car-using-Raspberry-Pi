@@ -10,13 +10,13 @@ This solution aims **to augment even the least expensive cars in India with an u
 [![Watch Project Demo](images/thumbnail_play.png)](https://youtu.be/6XW5p3OjkIA)
 
 
-*Project Blog:*
+**Project Blog:**
 https://towardsdatascience.com/adas-collision-avoidance-system-on-indian-cars-bac64cc8a863
 
-*Source Code:*
+**Source Code:**
 https://github.com/AdroitAnandAI/ADAS-Collision-Avoidance-System-on-Indian-Roads
 
-*Linkedin:*
+**Linkedin:**
 http://linkedin.com/in/ananduthaman
 
 
@@ -189,14 +189,15 @@ For the PoC, **see the output of SSD-Mobilenet model trained to classify Indian 
 _The annotated Indian Traffic Sign dataset is provided by Datacluster Labs, India. They are yet to finish the annotation of "Indian Vehicles" database. It's just a matter of training time to make this gadget, tailor-made for India._
 
 
-*Project Blog:*
+**Project Blog:**
 https://towardsdatascience.com/adas-collision-avoidance-system-on-indian-cars-bac64cc8a863
 
-*Source Code:*
+**Source Code:**
 https://github.com/AdroitAnandAI/ADAS-Collision-Avoidance-System-on-Indian-Roads
 
-*Linkedin:*
+**Linkedin:**
 http://linkedin.com/in/ananduthaman
+
 
 # References
 1. **LIDAR-Camera Sensor Fusion High Level:** https://www.thinkautonomous.ai/blog/?p=lidar-and-camera-sensor-fusion-in-self-driving-cars
